@@ -4,3 +4,11 @@
 PROJECT_IDENTITY.json
 使用说明.txt
 deploy_github_pages_a09.sh
+configure_github_custom_domain.sh
+finalize_custom_domain_if_ready.py
+a09_contact_cleanup.py
+fix_lint_a09.py
+QA_*
+DEPLOY_WEB_QA.json
+A09_CUSTOM_DOMAIN_STATUS.json
+A09_DEPLOYMENT_STATUS_20261115.md
