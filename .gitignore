@@ -1,0 +1,6 @@
+*.zip
+*.log
+*INTERNAL*
+PROJECT_IDENTITY.json
+使用说明.txt
+deploy_github_pages_a09.sh
