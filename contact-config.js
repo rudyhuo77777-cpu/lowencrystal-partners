@@ -4,5 +4,5 @@ window.LOWEN_CONTACT={
   whatsapp: "https://wa.me/qr/LEL5HI6DNAGIJ1",
   wechat: "https://u.wechat.com/MJD2kPoY1ZBP5hvNC0gpmTo?s=3",
   whatsappName: "Wenny",
-  wechatName: "wenny-yan"
+  wechatName: "13559925198"
 };
